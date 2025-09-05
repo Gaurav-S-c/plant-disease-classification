@@ -42,8 +42,8 @@ bean-leaf-classifier/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Sinha-Saurav/bean-leaf-classifier.git
-cd bean-leaf-classifier
+git clone https://github.com/<Gaurav-S-c>/<Bean_leaf-disease-classification>.git
+cd <Bean_leaf-disease-classification>
 ```
 ### 2. Install Dependencies
 ```bash
@@ -53,3 +53,41 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
+
+---
+
+## 🧠 Model Details
+
+- **Architecture**: GoogLeNet (`torchvision.models.googlenet`)  
+- **Approach**: Transfer Learning — replaced the final fully-connected layer and trained on 3 custom classes  
+- **Input Size**: 128 × 128 pixels  
+- **Dataset**: ~1,200 images (balanced, ~400 per class)  
+- **Training Environment**: Google Colab with PyTorch  
+
+---
+
+## 📌 Requirements
+
+Main dependencies:  
+- **torch**  
+- **torchvision**  
+- **streamlit**  
+- **Pillow**  
+
+👉 For the complete list, see [`requirements.txt`](requirements.txt).
+
+---
+
+## 🙌 Future Improvements
+
+- 🔼 Train on larger, more diverse datasets  
+- 🌍 Deploy on Streamlit Cloud / Hugging Face Spaces  
+- 📱 Build a mobile-friendly version  
+- ⚡ Add more disease categories  
+
+---
+
+## 👨‍💻 Author
+**Saurav Sinha**
+
+
