@@ -44,6 +44,7 @@ bean-leaf-classifier/
 ```bash
 git clone https://github.com/Sinha-Saurav/bean-leaf-classifier.git
 cd bean-leaf-classifier
+```
 ### 2. Install Dependencies
 pip install -r requirements.txt
 ### 3. Run the Streamlit App
