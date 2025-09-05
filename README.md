@@ -42,8 +42,8 @@ bean-leaf-classifier/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<Gaurav-S-c>/<Bean_leaf-disease-classification>.git
-cd <Bean_leaf-disease-classification>
+git clone https://github.com/Gaurav-S-c/Bean_leaf-disease-classification.git
+cd Bean_leaf-disease-classification
 ```
 ### 2. Install Dependencies
 ```bash
