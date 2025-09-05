@@ -1,4 +1,4 @@
-🌱 Bean Leaf Disease Classifier
+🌱 Bean Leaf Disease Classifier:
 A deep learning–based web app built with PyTorch and Streamlit to classify bean leaf images into three categories:
 
 Angular Leaf Spot
