@@ -88,6 +88,6 @@ Main dependencies:
 ---
 
 ## 👨‍💻 Author
-**Saurav Sinha**
+**Gaurav Sinha**
 
 
