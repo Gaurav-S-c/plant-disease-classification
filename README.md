@@ -31,7 +31,7 @@ bean-leaf-classifier/
 │── model_state.pth # Trained model weights
 │── requirements.txt # Python dependencies
 │── README.md # Project documentation
-│── project_3.ipynb # Model build on Google Colab
+│── Bean_leaf_model.ipynb # Model build on Google Colab
 
 ---
 
